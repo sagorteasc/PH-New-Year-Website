@@ -119,3 +119,36 @@ ul > li{
     font-weight: 500;
     font-size: 25px;
 }
+
+/* contact styles */
+.contact{
+    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 81%;
+    max-width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+}
+.contact-container{
+    max-width: 460px;
+    padding-top: 59px;
+    margin-left: 64px;
+}
+.contact-title{
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 24px;
+}
+.contact-btn{
+    background-color: white;
+    color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+    font-size: 20px;
+    padding: 21px 36px;
+}
