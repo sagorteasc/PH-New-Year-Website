@@ -16,6 +16,9 @@
 .dark-2{
     color: #444343;
 }
+.dark-3{
+    color: #737272;
+}
 
 
 
@@ -78,6 +81,9 @@ header{
     font-size: 40px;
     margin-bottom: 24px;
 }
+.mistake-description{
+    line-height: 26px;
+}
 .list{
     margin-top: 16px;
 }
@@ -87,4 +93,29 @@ ul > li{
 .check-color{
     color: #16D887;
     margin-right: 10px;
+}
+
+/* my plans styles */
+.plan-heading{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.plan-container{
+    display: flex;
+    gap: 86px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 125px;
+}
+.plan-title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
 }
